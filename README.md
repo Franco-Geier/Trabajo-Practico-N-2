@@ -1,2 +1,2 @@
-# Trabajo-Practico-N-2
+# Trabajo-Practico-N2
 Trabajo practico UTN FRA
